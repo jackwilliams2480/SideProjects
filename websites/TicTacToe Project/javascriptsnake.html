@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>sqrt(TicTacToe)</title>
+		
+		<link href="https://fonts.googleapis.com/css?family=Tajawal:300,400,700" rel="stylesheet">
+		
+		
+		<style>
+		body {
+			width: 550px;
+			margin: auto;
+			background-color: #eaf2f1;
+			font-family: 'Tajawal', sans-serif;
+		}
+
+		h1 {
+			border-bottom: 1px solid black;
+			text-align: center;
+		}
+
+		.Square {
+			height: 150px;
+			width: 150px;
+			font-size: 60pt;
+			text-align: center;
+			font-weight: light;
+			float: center;
+		}
+
+		#message {
+			font-size:20px;
+		}
+		#restart {
+			text-decoration: none;
+			color: black;
+		}
+		</style>
+
+	</head>
+	<body onload="startGame()">
+		<h1>Tic tac toe in JAVASCRIPT.</h1>
+		<div id="message">Messages here</div>
+		<table border="1">
+			<tr>
+				<td class="Square" id="s1" onClick="nextMove(this)"></td>
+				<td class="Square" id="s2" onClick="nextMove(this)"></td>
+				<td class="Square" id="s3" onClick="nextMove(this)"></td>
+			</tr>
+			<tr>
+				<td class="Square" id="s4" onClick="nextMove(this)"></td>
+				<td class="Square" id="s5" onClick="nextMove(this)"></td>
+				<td class="Square" id="s6" onClick="nextMove(this)"></td>
+			</tr>
+			<tr>
+				<td class="Square" id="s7" onClick="nextMove(this)"></td>
+				<td class="Square" id="s8" onClick="nextMove(this)"></td>
+				<td class="Square" id="s9" onClick="nextMove(this)"></td>
+			</tr>
+		</table>
+		<a href="javascript: startGame();" id="restart">Restart game</a>
+
+		<script src="style.js"></script>
+	</body>
+</html>
