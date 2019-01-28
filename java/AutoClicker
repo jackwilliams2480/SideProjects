@@ -1,0 +1,27 @@
+import java.io.*;
+import java.util.*;
+import java.awt.*;
+import java.awt.event.*;
+
+public class autoClicker
+{    
+    public static void main() throws IOException,AWTException,InterruptedException 
+    {
+        //five seconds to move mouse into correct position
+        Thread.sleep(5000);
+        //gets cordinates of mouse and sets them to x and y variables
+        Point p = MouseInfo.getPointerInfo().getLocation();
+        int x = p.x;int y = p.y;
+        Robot robot = new Robot();int count = 0;
+        //while loop that runs for a set number of times autoclicking
+        while(count < 1000)
+        {
+            Thread.sleep(10); 
+            //robot.mouseMove(144,170);
+            robot.mouseMove(x, y);
+            robot.mousePress(InputEvent.BUTTON1_DOWN_MASK);
+            robot.mouseRelease( InputEvent.BUTTON1_DOWN_MASK );
+            count++;
+        }
+    }
+}
