@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Marketer
+comment1.params=
+comment1.target=Marketer()
+comment2.params=name
+comment2.target=Marketer(java.lang.String)
+comment3.params=
+comment3.target=double\ getSalary()
+comment4.params=
+comment4.target=void\ advertise()
+numComments=5

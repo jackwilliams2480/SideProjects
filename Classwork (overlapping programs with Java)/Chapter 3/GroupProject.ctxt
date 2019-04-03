@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GroupProject
+comment1.params=
+comment1.target=void\ main()
+comment2.params=MIN_NUMBER\ MAX_NUMBER
+comment2.target=void\ Exercise4(int,\ int)
+numComments=3

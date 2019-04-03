@@ -1,0 +1,39 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;C:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\BlueJ\lib\lang-stride.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4
+-d
+U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\Classwork.java
+<---- end of javadoc command ---->
+Loading source file U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\Classwork.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\doc\Classwork.html...
+Generating U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\doc\package-frame.html...
+Generating U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\doc\package-summary.html...
+Generating U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\doc\allclasses-frame.html...
+Generating U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\doc\allclasses-noframe.html...
+Generating U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\doc\index.html...
+javadoc: error - U:\Learning Java\Pre-AP File\Chapter 4 Ex\Chapter 4\doc\script.js (Access is denied)
+1 error

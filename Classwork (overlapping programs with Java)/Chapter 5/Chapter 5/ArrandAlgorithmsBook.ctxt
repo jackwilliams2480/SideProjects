@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArrandAlgorithmsBook
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n
+comment2.target=int\ tri(int)
+comment3.params=n
+comment3.target=java.lang.String\ trinice(int)
+comment4.params=
+comment4.target=void\ findKey()
+numComments=5

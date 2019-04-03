@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GroceryItemOrder
+comment1.params=name\ quantity\ pricePerUnit
+comment1.target=GroceryItemOrder(java.lang.String,\ int,\ double)
+comment1.text=\r\n\ Constructs\ an\ item\ order\ to\ purchase\ the\ item\ with\ the\ given\ name,\ \r\n\ in\ the\ given\ quantity,\ which\ costs\ the\ given\ price\r\n\ per\ unit.\r\n
+comment2.params=
+comment2.target=double\ getCost()
+comment2.text=\ \r\n\ Returns\ the\ total\ cost\ of\ this\ item\ in\ its\ given\ quantity.\ For\ example,\r\n\ four\ boxes\ of\ cookies\ that\ cost\ 2.30\ per\ unit\r\n\ have\ a\ total\ cost\ of\ 9.20\r\n
+comment3.params=quantity
+comment3.target=void\ setQuantity(int)
+comment3.text=\r\n\ Sets\ this\ grocery\ item\u2019s\ quantity\ to\ be\ the\ given\ value\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

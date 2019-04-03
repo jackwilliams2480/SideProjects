@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ArrayPrograms2
+comment1.params=
+comment1.target=void\ main()
+comment2.params=list
+comment2.target=void\ Ex1(int[][])
+comment3.params=list
+comment3.target=void\ Ex2(int[][])
+comment4.params=list
+comment4.target=void\ Ex3(int[][])
+comment5.params=list
+comment5.target=void\ Ex4(int[][])
+comment6.params=list
+comment6.target=void\ Ex5(int[][])
+comment7.params=list
+comment7.target=void\ Ex7(java.lang.String[][])
+comment8.params=board
+comment8.target=void\ Ex8(int[][])
+numComments=9

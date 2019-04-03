@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Line
+comment1.params=
+comment1.target=Line()
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=Line(int,\ int,\ int,\ int)
+comment3.params=p1\ p2
+comment3.target=Line(Point,\ Point)
+comment4.params=
+comment4.target=Point\ getP1()
+comment5.params=
+comment5.target=Point\ getP2()
+comment6.params=
+comment6.target=double\ getSlope()
+comment7.params=p1\ p2
+comment7.target=boolean\ isCollinear(Point,\ Point)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

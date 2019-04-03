@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StringPrograms
+comment1.params=
+comment1.target=void\ main()
+comment2.params=first\ middle\ last
+comment2.target=void\ Program1(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=first\ middle\ last
+comment3.target=void\ Program2(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=first\ middle\ last
+comment4.target=void\ Program3(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=first\ middle\ last
+comment5.target=void\ Program4(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=a\ b\ c\ d
+comment6.target=java.lang.String\ breakingpoints(java.lang.String,\ int,\ int,\ int)
+numComments=7

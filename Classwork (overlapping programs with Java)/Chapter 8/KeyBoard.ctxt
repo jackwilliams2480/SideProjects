@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=KeyBoard
+comment1.params=lang\ color\ keys
+comment1.target=KeyBoard(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=KeyBoard()
+comment3.params=
+comment3.target=java.lang.String\ getLanguage()
+comment4.params=
+comment4.target=int\ getnumberOfKeys()
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+numComments=6

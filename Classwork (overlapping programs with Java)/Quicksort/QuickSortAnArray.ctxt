@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QuickSortAnArray
+comment0.text=\r\n\ QuickSort\ An\ Array\ Via\ Index\ Pointers\r\n\ Write\ a\ program\ called\ \u201CQuickSortAnArrayViaPointers.java\u201D\ that\ will\ QuickSort\ an\ array\ of\ numbers\ WITHOUT\ \r\n\ moving\ the\ numbers\ around\ themselves.\ \ Instead,\ you\ QuickSort\ the\ \u2018sorted\u2019\ array\ which\ pt\ to\ \u2018nums\u2019.\r\n\r\n\ So\ in\ array\ \u2018nums\u2019\ and\ \u2018sorted\u2019\ we\ had\:\r\n\ nums\:\ \ \ 8,\ 4,\ 12,\ 2,\ 6,\ 10,\ 14,\ 1,\ 3,\ 5,\ \ 7,\ \ 9,\ 11,\ 13,\ 15\r\n\ index\:\ \ 0\ \ 1\ \ \ 2\ \ 3\ \ 4\ \ \ 5\ \ \ 6\ \ 7\ \ 8\ \ 9\ \ 10\ \ 11\ \ 12\ \ 13\ \ 14\r\n\r\n\ sorted\:\ 0\ \ 1\ \ \ 2\ \ 3\ \ 4\ \ \ 5\ \ \ 6\ \ 7\ \ 8\ \ 9\ \ 10\ \ 11\ \ 12\ \ 13\ \ 14\r\n\ index\:\ \ 0\ \ 1\ \ \ 2\ \ 3\ \ 4\ \ \ 5\ \ \ 6\ \ 7\ \ 8\ \ 9\ \ 10\ \ 11\ \ 12\ \ 13\ \ 14\r\n\r\n\ Then\ after\ the\ call\ to\ quickSort(\ ),\ the\ array\ nums\ would\ NOT\ have\ changed\ but\ \u2018sorted\u2019\ would\ as\:\r\n\ nums\:\ \ \ 8,\ 4,\ 12,\ 2,\ 6,\ 10,\ 14,\ 1,\ 3,\ 5,\ \ 7,\ \ \ 9,\ \ \ 11,\ \ 13,\ 15\r\n\ index\:\ \ \ \ 0\ \ 1\ \ \ 2\ \ \ 3\ \ 4\ \ \ 5\ \ \ 6\ \ \ 7\ \ 8\ \ \ 9\ \ 10\ \ 11\ \ 12\ \ \ 13\ \ 14\r\n\r\n\ sorted\:\ \ 7\ \ 3\ \ 8\ \ 1\ \ 9\ \ \ 4\ \ 10\ \ 0\ \ 11\ \ 5\ \ 12\ \ \ 2\ \ 13\ \ \ 6\ \ \ 14\ \r\n\ index\:\ \ \ 0\ \ 1\ \ \ 2\ \ 3\ \ 4\ \ \ 5\ \ \ 6\ \ \ 7\ \ \ 8\ \ 9\ \ 10\ \ 11\ \ 12\ \ 13\ \ 14\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=nums
+comment2.target=void\ quickSort(java.util.ArrayList)
+comment3.params=nums
+comment3.target=void\ printList(java.util.ArrayList)
+numComments=4
